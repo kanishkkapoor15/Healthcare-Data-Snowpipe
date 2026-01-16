@@ -9,17 +9,17 @@ Just completed a full-scale ELT data pipeline project focused on the Irish healt
 <img width="481" alt="Screenshot 2025-06-21 at 1 00 18 PM" src="https://github.com/user-attachments/assets/1eaeb4c3-0c5d-4218-b4e2-d18a2cf4dd96" />
 
 
-🔗 What I built:
+ What I built:
 
 
 
-✅ FastAPI backend to simulate 100+ realistic hospital records using Faker
+FastAPI backend to simulate 100+ realistic hospital records using Faker
 
-✅ Direct ingestion of data into Snowflake using the Snowflake Python connector
+Direct ingestion of data into Snowflake using the Snowflake Python connector
 
-✅ Designed separate RAW and TRANSFORMED schemas
+Designed separate RAW and TRANSFORMED schemas
 
-✅ Created a transformed layer with interpreted features:
+Created a transformed layer with interpreted features:
 
 
 
@@ -32,7 +32,7 @@ Risk level flags based on patient status and attendance
 <img width="1002" alt="Screenshot 2025-06-21 at 12 13 08 PM" src="https://github.com/user-attachments/assets/741e34b4-371d-4268-9cd8-f7eea30c43dc" />
 
 
-✅ Conducted SQL-based data exploration and built visual charts directly within Snowflake UI
+Conducted SQL-based data exploration and built visual charts directly within Snowflake UI
 
 <img width="989" alt="Screenshot 2025-06-21 at 12 47 39 PM" src="https://github.com/user-attachments/assets/11aa4489-5bdd-470b-965d-600156b161da" />
 
@@ -42,13 +42,13 @@ Risk level flags based on patient status and attendance
 
 
 
-📌 Tools Used: Python, FastAPI, Snowflake, Faker, SQL
+Tools Used: Python, FastAPI, Snowflake, Faker, SQL
 
-📦 Use Case: Irish hospital patient & appointment data
+Use Case: Irish hospital patient & appointment data
 
 
 
-👉 Feel free to reach out if you’re working on anything in healthcare analytics or Snowflake-based data platforms. I’d love to connect!
+ Feel free to reach out if you’re working on anything in healthcare analytics or Snowflake-based data platforms. I’d love to connect!
 
 
 
